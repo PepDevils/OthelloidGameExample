@@ -1,0 +1,7 @@
+C:\Users\Ricardo\AndroidStudioProjects\Othelloid\app\build\intermediates\classes\release
+C:\Users\Ricardo\AndroidStudioProjects\Othelloid\app\build\intermediates\pre-dexed\release\support-annotations-21.0.0-5c6a4d3fd692981a9bcfd8a24b2987b6fb477f16.jar
+C:\Users\Ricardo\AndroidStudioProjects\Othelloid\app\build\intermediates\pre-dexed\release\classes-2fae6837b177b2c37ec5b04997266a6b71a04d26.jar
+C:\Users\Ricardo\AndroidStudioProjects\Othelloid\app\build\intermediates\pre-dexed\release\internal_impl-21.0.0-9b318a32d0e08dd7f732ce3c4a6aa96beb3a84f5.jar
+C:\Users\Ricardo\AndroidStudioProjects\Othelloid\app\build\intermediates\pre-dexed\release\classes-a46023be36b6824b612b6f939a1f5c8d31f701ed.jar
+C:\Users\Ricardo\AndroidStudioProjects\Othelloid\app\build\intermediates\pre-dexed\release\classes-44bf21d5e07281bd5a6aa4c9e0230973c58e3e7c.jar
+C:\Users\Ricardo\AndroidStudioProjects\Othelloid\app\build\intermediates\pre-dexed\release\classes-18ce9c9a337917e2ad1b1d270cb451b29b0329d0.jar

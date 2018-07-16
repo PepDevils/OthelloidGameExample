@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">289531505488</string>
+    <string name="leaderboard_ranking">CgkI0Nawy7YIEAIQAQ</string>
+    <string name="achievement_1">CgkI0Nawy7YIEAIQAg</string>
+    <string name="achievement_2">CgkI0Nawy7YIEAIQAw</string>
+    <string name="achievement_3">CgkI0Nawy7YIEAIQBA</string>
+    <string name="achievement_4">CgkI0Nawy7YIEAIQBQ</string>
+    <string name="achievement_5">CgkI0Nawy7YIEAIQBg</string>
+</resources>

@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.androidgames.otelloid.ConfigActivity">
+
+</menu>
+<!-- From: file:/C:/Users/Ricardo/AndroidStudioProjects/Othelloid/app/src/main/res/menu/menu_config.xml -->

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <gradient
+        android:angle="-90"
+        android:startColor="#00bbbbbb"
+        android:endColor="#77444444"
+        android:type="linear" />
+
+</shape>
+<!-- From: file:/C:/Users/Pedro%20Fonseca/Desktop/Othelloid/BaseGameUtils/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/res/drawable/cast_mini_controller_gradient_light.xml -->

@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'MyAndroidKey'
+            keyPassword 'android'
+            storeFile file('C:/Users/Ricardo/.android/release.keystore')
+            storePassword 'android'
+        }
+    }
+    compileSdkVersion 21
+    buildToolsVersion "21.1.0"
+    defaultConfig {
+        applicationId "com.androidgames.othelloid"
+        minSdkVersion 16
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            signingConfig signingConfigs.config
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:support-v4:21.0.0'
+    compile project(':BaseGameUtils')
+}

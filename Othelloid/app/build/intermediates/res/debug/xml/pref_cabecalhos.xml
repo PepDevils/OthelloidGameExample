@@ -1,0 +1,8 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Cabeçalhos usados apenas em tablets. -->
+    <header android:fragment="com.androidgames.otelloid.Opcoes$GeneralPreferenceFragment"
+        android:title="@string/pref_titulo_cabecalho_geral" />
+
+</preference-headers>
+<!-- From: file:/C:/Users/Ricardo/AndroidStudioProjects/Othelloid/app/src/main/res/xml/pref_cabecalhos.xml -->
